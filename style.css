@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: darkgray;
+    padding: 10px;
+    
+}
+
+.discount {
+    background-color: antiquewhite;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+main h1 {
+    color:  navy;
+    background-color:  darkgray;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+footer {
+    background-color: thistle;   
+     padding: 3px;
+}
+   
+
+footer p {
+    background-color: white;
+}
+
+nav {
+    background-color: darkgray;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+nav a {
+    background-color: antiquewhite;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.product {
+    background-color:darkgray;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.special {
+    color: rgb(106, 40, 157);
+    font-size: 25px;
+    
+}
+main{
+    margin: 20px;
+}
+
+.link{
+    color: black;
+    padding: 5px;
+    border: 2px solid thistle;
+    border-radius: 6px;
+}
